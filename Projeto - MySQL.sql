@@ -1,5 +1,6 @@
 create database java_projetof;
 use java_projetof;
+
 CREATE TABLE Usuario (
 id INT PRIMARY KEY,
 Nome VARCHAR(100),
